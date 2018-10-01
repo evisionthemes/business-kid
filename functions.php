@@ -7,8 +7,10 @@
 
   add_action( 'wp_enqueue_scripts', 'business_child_style' );
   function business_child_style() {
-	wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
-	wp_enqueue_style( 'child-style',get_stylesheet_directory_uri() . '/style.css',array('parent-style'));
+	wp_enqueue_style( 'bootstrap', get_template_directory_uri() . '/assets/frameworks/bootstrap/bootstrap.css' );
+
+	wp_enqueue_style( 'business-click-style', get_template_directory_uri() . '/style.css' );
+	wp_enqueue_style( 'business-child-style',get_stylesheet_directory_uri() . '/style.css',array('business-click-style'));
 }
 
 
