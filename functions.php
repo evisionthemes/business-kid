@@ -13,8 +13,10 @@
 	wp_enqueue_style( 'business-child-style',get_stylesheet_directory_uri() . '/style.css',array('business-click-style'));
 }
 
-
-/**
- *Your code goes below
- */
+// theme name
+if ( ! function_exists ( 'business_click_theme_name' ) ) {
+	function business_click_theme_name() {
+		return esc_html__('Business Child','business-child');
+	}
+}
 
