@@ -1,9 +1,11 @@
 <?php
 /**
- *Recommended way to include parent theme styles.
- *(Please see http://codex.wordpress.org/Child_Themes#How_to_Create_a_Child_Theme)
- */  
-
+ * Business Kid functions and definitions.
+ *
+ * @link https://developer.wordpress.org/themes/basics/theme-functions/
+ *
+ * @package business-kid
+ */
 
   add_action( 'wp_enqueue_scripts', 'business_kid_style' );
   function business_kid_style() {
