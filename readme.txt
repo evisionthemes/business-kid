@@ -1,4 +1,4 @@
-=== business-child ===
+=== business-kid ===
 
 Contributors: eVision Themes
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, left-sidebar, right-sidebar, blog, e-commerce, theme-options, custom-colors, rtl-language-support, full-width-template, one-column, grid-layout, footer-widgets, portfolio
@@ -14,12 +14,12 @@ License URI: LICENSE
 Business Click WordPress Theme, Copyright (C) 2018 eVision Themes
 Business Click is distributed under the terms of the GNU GPL
 
-Business Child WordPress Theme is child theme of Business Click WordPress Theme, Copyright (C) 2018, eVision Themes
+Business Kid WordPress Theme is child theme of Business Click WordPress Theme, Copyright (C) 2018, eVision Themes
 Business Click is distributed under the terms of the GNU GPL
 
 == Description ==
 
-Business Child theme is a clean and simple child theme of Business Click with flexible features. No coding required. You can create a professional website within few moments. It's free! This creative theme supports popular plugins like Jetpack, WP page navi, Contact form 7, Elementor page builder, Page Builder by SiteOrigin, W3 Total Cache, Social Pug, All in One SEO Pack, MailChimp, WooCommerce etc. If you are a non-techy person, you can easily modify the theme and design using live customizer in Dashboard > Appearance> Customize. You can change the color and the font of each and every text, link in the theme.
+Business Kid theme is a clean and simple child theme of Business Click with flexible features. No coding required. You can create a professional website within few moments. It's free! This creative theme supports popular plugins like Jetpack, WP page navi, Contact form 7, Elementor page builder, Page Builder by SiteOrigin, W3 Total Cache, Social Pug, All in One SEO Pack, MailChimp, WooCommerce etc. If you are a non-techy person, you can easily modify the theme and design using live customizer in Dashboard > Appearance> Customize. You can change the color and the font of each and every text, link in the theme.
 
 
 == Installation ==
