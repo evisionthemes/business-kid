@@ -1,10 +1,10 @@
-=== business-click ===
+=== business-child ===
 
 Contributors: eVision Themes
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, left-sidebar, right-sidebar, blog, e-commerce, theme-options, custom-colors, rtl-language-support, full-width-template, one-column, grid-layout, footer-widgets, portfolio
 
 Requires at least: 4.5
-Tested up to: 4.9.7
+Tested up to: 4.9.8
 Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
