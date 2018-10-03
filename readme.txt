@@ -68,12 +68,13 @@ Font Icons:
 * License - https://fontawesome.com/license (Fonts: SIL OFL 1.1, Code: MIT License) 
 
 Note:
-	If your Image is not align properly, then you can try regenerate thumbnails. So that it can fit on required image size.
+	If your Image is not align properly, then you can try Regenerate Thumbnails plugin. So that it can fit on required image size.
 
 == Image used in screenshot ==
 * All images are licensed under [CC0](http://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)
 
 1) https://pixabay.com/en/woman-business-fashion-young-3060784/
+2) https://pixabay.com/en/meeting-room-table-screen-730679/
 
 == Changelog ==
 
