@@ -115,7 +115,7 @@ if(!function_exists('business_click_defauts_value') ) :
 
 		//feature section
 		$defaults['business-click-feature-enable']  					= 1;
-		$defaults['business-click-feature-section-title']  				= esc_html__('','business-click');
+		$defaults['business-click-feature-section-title']  				= esc_html__('','business-click');//business-kid
 		$defaults['business-click-feature-excerpt-length']  			= 30;;
 		$defaults['business-click-feature-select-form']  				= 'form-category';
 		$defaults['business-click-feature-from-category']  				= -1;
