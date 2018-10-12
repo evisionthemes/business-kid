@@ -73,14 +73,14 @@ if(!function_exists('business_click_defauts_value') ) :
 
 		//top bar
 		$defaults['business-click-enbale-top-bar-header']  				= 1;
-		$defaults['business-click-top-bar-phone']          				= esc_html__('+(123)-456789','business-click');
-		$defaults['bussiness-click-top-bar-email']         				= esc_html__('evisionthemes@gmail.com','business-click');
-		$defaults['bussiness-click-top-bar-location']      				= esc_html__('Kathmandu, Nepal','business-click');
+		$defaults['business-click-top-bar-phone']          				= esc_html__('+(123)-456789','business-kid');
+		$defaults['bussiness-click-top-bar-email']         				= esc_html__('evisionthemes@gmail.com','business-kid');
+		$defaults['bussiness-click-top-bar-location']      				= esc_html__('Kathmandu, Nepal','business-kid');
 		$defaults['bussiness-click-top-bar-social-menu']   				= '';
 
 		// header Section
 		$defaults['business-click-enable-extra-button']					= 1;
-		$defaults['business-click-text-extra-button-text']				= esc_html__('More Demos','business-click');
+		$defaults['business-click-text-extra-button-text']				= esc_html__('More Demos','business-kid');
 		$defaults['business-click-link-extra-button']					= 'https://demo.evisionthemes.com/business-click/multipage/';
 		$defaults['business-click-enable-transparent-header']		    = 0;//business-kid
 
@@ -111,16 +111,16 @@ if(!function_exists('business_click_defauts_value') ) :
 		$defaults['business-click-select-from-cat']						= -1;
 		$defaults['business-click-select-from-page']					= 0;
 		$defaults['business-click-slider-enable-blog']					= 0;
-		$defaults['business-click-slider-button-text']					= esc_html__('Learn more','business-click');
+		$defaults['business-click-slider-button-text']					= esc_html__('Learn more','business-kid');
 
 		//feature section
 		$defaults['business-click-feature-enable']  					= 1;
-		$defaults['business-click-feature-section-title']  				= esc_html__('','business-click');//business-kid
+		$defaults['business-click-feature-section-title']  				= esc_html__('','business-kid');//business-kid
 		$defaults['business-click-feature-excerpt-length']  			= 30;;
 		$defaults['business-click-feature-select-form']  				= 'form-category';
 		$defaults['business-click-feature-from-category']  				= -1;
 		$defaults['business-click-feature-from-page']  					= 0;
-		$defaults['business-click-feature-page-icon']  					= esc_html__('fa-wrench','business-click');
+		$defaults['business-click-feature-page-icon']  					= esc_html__('fa-wrench','business-kid');
 		$defaults['business-click-feature-button-text']  				= '';
 		$defaults['business-click-feature-background-image']  			= '';
 
@@ -128,18 +128,18 @@ if(!function_exists('business_click_defauts_value') ) :
 		$defaults['business-click-enable-call-to-action'] 				= 1;
 		$defaults['business-click-call-excerpt-length'] 				= 30;
 		$defaults['business-click-call-to-action-select-from-page'] 	= 0;
-		$defaults['business-click-button-text'] 						= esc_html__('Learn more','business-click');
+		$defaults['business-click-button-text'] 						= esc_html__('Learn more','business-kid');
 
 		// about us section
 		$defaults['business-click-enable-about-us'] 					= 1;
 		$defaults['business-clcik-excerpt-length'] 						= 30;
 		$defaults['business-click-about-us-select-page'] 				= 0;
-		$defaults['business-click-about-us-button-text'] 				= esc_html__('Details','business-click');
+		$defaults['business-click-about-us-button-text'] 				= esc_html__('Details','business-kid');
 		$defaults['business-click-about-us-background-image'] 			= '';
 
 		//testimonial
 		$defaults['business-click-testimonila-enable']					= 1;
-		$defaults['business-click-testimonial-section-title']			= esc_html__('Testimonial','business-click');
+		$defaults['business-click-testimonial-section-title']			= esc_html__('Testimonial','business-kid');
 		$defaults['business-click-testimonial-excerpt-length']			= 30;
 		$defaults['business-click-testimonial-select-form']				= 'form-category';
 		$defaults['business-click-testimonial-from-category']			= -1;
@@ -149,10 +149,10 @@ if(!function_exists('business_click_defauts_value') ) :
 
 		//blog Section
 		$defaults['business-click-blog-section-enable'] 				= 1;
-		$defaults['business-click-blog-section-title-text'] 			= esc_html__('Blog','business-click');
+		$defaults['business-click-blog-section-title-text'] 			= esc_html__('Blog','business-kid');
 		$defaults['business-click-blog-excerpt-length'] 				= 30;
 		$defaults['business-click-blog-select-category'] 				= -1;
-		$defaults['business-click-blog-button-text'] 					= esc_html__('Read More','business-click');
+		$defaults['business-click-blog-button-text'] 					= esc_html__('Read More','business-kid');
 		$defaults['business-click-blog-background-image'] 				= '';
 
 		//Contact us Section
@@ -163,7 +163,7 @@ if(!function_exists('business_click_defauts_value') ) :
 
 		//layout options
 		$defaults['business-click-enable-static-page'] 					= 0;
-		$defaults['business-click-default-layout']     					= esc_html('no-sidebar','business-click');
+		$defaults['business-click-default-layout']     					= esc_html('no-sidebar','business-kid');
 		$defaults['business-click-single-post-image-align'] 			= 'full';
 		$defaults['business-click-archive-image-align']     			= 'full';
 		$defaults['business-click-archive-layout'] 						= 'thumbnail-and-excerpt';
@@ -177,7 +177,7 @@ if(!function_exists('business_click_defauts_value') ) :
 		$defaults['business-click-enable-breadcrumb']					= 1;
 
 		//footer section
-		$defaults['business-click-copyright-text']						= esc_html__( 'Copyright &copy; All right reserved.', 'business-click' );
+		$defaults['business-click-copyright-text']						= esc_html__( 'Copyright &copy; All right reserved.', 'business-kid' );
 		$defaults['business-click-enable-scroll-to-top']				= 1;
 
 
