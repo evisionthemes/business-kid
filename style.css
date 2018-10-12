@@ -27,6 +27,9 @@ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-com
   color: #000;
   font-weight: 600;
 }
+#evt-call-to-action .btn:hover {
+  color: #ffffff;
+}
 @media (min-width: 576px) {
   #evt-call-to-action .btn-group {
     margin-left: 30px;
