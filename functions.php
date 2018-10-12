@@ -27,8 +27,8 @@ if ( ! function_exists ( 'business_click_default_slider_value' ) ) {
 	function business_click_default_slider_value() {
 		// displaying these defaults if uncategoried post is not present at first
 		$default_feature_slideer_array[]  =  array(
-          'business-click-feature-title'    => esc_html__('Your Custom Slider Title', 'full-click'),
-          'business-click-feature-content'  => esc_html__('This is your dummy post. Please select post category or page from Customizer - Homepage / Front Page - Feature Slider Section.', 'full-click'),
+          'business-click-feature-title'    => esc_html__('Your Custom Slider Title', 'business-kid'),
+          'business-click-feature-content'  => esc_html__('This is your dummy post. Please select post category or page from Customizer - Homepage / Front Page - Feature Slider Section.', 'business-kid'),
           'business-click-feature-image'    => get_stylesheet_directory_uri() . '/assets/img/slider.jpg',
           'business-click-feature-url'      => '#'
         );
