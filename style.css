@@ -115,7 +115,7 @@ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-com
   right: 0;
 }
 
-.widget-title:before, .widgettitle:before, .woocommerce div.product .product_title:before, .page-title:before, body .entry-title:before, .widget_search form .search-submit, .evt-head-search form .search-submit, .pagination .nav-links a, .wp-pagenavi a, .woocommerce nav.woocommerce-pagination a, .pagination .nav-links span, .wp-pagenavi span, .woocommerce nav.woocommerce-pagination span, a.btn, .btn, .read-more, .wpcf7-form .wpcf7-submit, .woocommerce #respond input#submit, .woocommerce div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, button, input[type="button"], input[type="reset"], input[type="submit"], .btn.btn-reverse:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .pagination .nav-links ul li span.current, .wp-pagenavi ul li span.current, .woocommerce nav.woocommerce-pagination ul li span.current, .pagination .nav-links ul li span:hover, .wp-pagenavi ul li span:hover, .woocommerce nav.woocommerce-pagination ul li span:hover, .pagination .nav-links ul li a:hover, .wp-pagenavi ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:hover, header.site-header .evt-header-wrap-nav .evt-menu-toggler-manage #menu-icon.menu-toggler:hover span, ul.slick-dots li button:hover, ul.slick-dots li.slick-active button, .woocommerce span.onsale, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .evt-carousel.slick-slider ul.slick-dots li button:hover, .evt-carousel.slick-slider ul.slick-dots li.slick-active button, .evt-featured-item-wrap .evt-featured-item .evt-featured-icon, #evt-top-header, .evt-thumb-holder .evt-thumb-hover, #evt-team .evt-box-item-wrap .evt-box-image .evt-box-social-icons, #evt-testimonials .evt-testimonials-slider, .elementor-widget-button a.elementor-button, .elementor-widget-button .elementor-button, .elementor-slick-slider ul.slick-dots li button, .elementor-widget-icon.elementor-view-stacked .elementor-icon, body .elementor-social-icon, body .elementor-add-new-section .elementor-add-section-button {
+.widget-title:before, .widgettitle:before, .woocommerce div.product .product_title:before, .page-title:before, body .entry-title:before, .widget_search form .search-submit, .evt-head-search form .search-submit, .pagination .nav-links a, .wp-pagenavi a, .woocommerce nav.woocommerce-pagination a, .pagination .nav-links span, .wp-pagenavi span, .woocommerce nav.woocommerce-pagination span, a.btn, .btn, .read-more, .wpcf7-form .wpcf7-submit, .woocommerce #respond input#submit, .woocommerce div.product form.cart .button, .woocommerce #respond input#submit.alt, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, button, input[type=button], input[type=reset], input[type=submit], .btn.btn-reverse:hover, .wp-pagenavi a:hover, .wp-pagenavi span.current, .pagination .nav-links ul li span.current, .wp-pagenavi ul li span.current, .woocommerce nav.woocommerce-pagination ul li span.current, .pagination .nav-links ul li span:hover, .wp-pagenavi ul li span:hover, .woocommerce nav.woocommerce-pagination ul li span:hover, .pagination .nav-links ul li a:hover, .wp-pagenavi ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:hover, header.site-header .evt-header-wrap-nav .evt-menu-toggler-manage #menu-icon.menu-toggler:hover span, ul.slick-dots li button:hover, ul.slick-dots li.slick-active button, .woocommerce span.onsale, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .evt-carousel.slick-slider ul.slick-dots li button:hover, .evt-carousel.slick-slider ul.slick-dots li.slick-active button, .evt-featured-item-wrap .evt-featured-item .evt-featured-icon, #evt-top-header, .evt-thumb-holder .evt-thumb-hover, #evt-team .evt-box-item-wrap .evt-box-image .evt-box-social-icons, #evt-testimonials .evt-testimonials-slider, .elementor-widget-button a.elementor-button, .elementor-widget-button .elementor-button, .elementor-slick-slider ul.slick-dots li button, .elementor-widget-icon.elementor-view-stacked .elementor-icon, body .elementor-social-icon, body .elementor-add-new-section .elementor-add-section-button {
   background-color: #ed4d00;
 }
 
@@ -248,7 +248,6 @@ body.has-featured-slider #evt-featured .evt-featured-item-wrap .evt-featured-ite
 body.has-featured-slider #evt-featured .evt-featured-item-wrap .evt-featured-item:hover {
   background-color: #ed4d0020;
 }
-
 #evt-call-to-action {
   background-color: #ed4d00;
 }
@@ -265,9 +264,11 @@ body.has-featured-slider #evt-featured .evt-featured-item-wrap .evt-featured-ite
   max-height: 34px;
 }
 
-#evt-why-us .row .col:first-child {
-  order: 2;
-  align-self: flex-start !important;
+@media (min-width: 768px) {
+  #evt-why-us .row .col:first-child {
+    order: 2;
+    align-self: flex-start !important;
+  }
 }
 
 #evt-testimonials.dark-background {

@@ -80,6 +80,7 @@ Note:
 
 ## 1.0.1 ##
 * Minor design issues fix.
+* Homepage About Section responsive issue fix
 
 ## 1.0.0 ##
 * Initial release.
