@@ -81,7 +81,7 @@ if(!function_exists('business_click_defauts_value') ) :
 		// header Section
 		$defaults['business-click-enable-extra-button']					= 1;
 		$defaults['business-click-text-extra-button-text']				= esc_html__('More Demos','business-kid');
-		$defaults['business-click-link-extra-button']					= 'https://demo.evisionthemes.com/business-click/multipage/';
+		$defaults['business-click-link-extra-button']					= esc_url('https://demo.evisionthemes.com/business-click/multipage/');
 		$defaults['business-click-enable-transparent-header']		    = 0;//business-kid
 
 
